@@ -3,3 +3,4 @@
 Eğitmen : Atıl SAMANCIOĞLU 
 
 Eğitimde yazılan kodların içerisinde benim yorum satırlarımda bulunmaktadır.
+ 
