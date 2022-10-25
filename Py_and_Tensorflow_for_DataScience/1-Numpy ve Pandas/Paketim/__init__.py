@@ -1,0 +1,1 @@
+# Bu dosyalara birşey yazmamıza gerek yok . Python'ın paket olduğunu anlaması için oluşturuldu.
