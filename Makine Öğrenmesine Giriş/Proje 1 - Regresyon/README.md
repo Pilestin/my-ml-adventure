@@ -1,6 +1,6 @@
 Uygulamanın raporuna ulaşmak için : 
 
-<img style="width:14px;" src = "https://user-images.githubusercontent.com/56133248/203116656-b0c7594e-c800-44b8-b9ea-b97a357bef90.png"> https://dawn-squash-710.notion.site/Proje-1-Regresyon-08c0dec28ff349439db3dfe26f1b0b5d
+<img style="width:14px;" src = "https://user-images.githubusercontent.com/56133248/203116656-b0c7594e-c800-44b8-b9ea-b97a357bef90.png"> [](https://dawn-squash-710.notion.site/Proje-1-Regresyon-08c0dec28ff349439db3dfe26f1b0b5d)
 
 ---
 
