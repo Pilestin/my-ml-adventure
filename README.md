@@ -1,4 +1,4 @@
-# My_ML_Adventure
+## My Machine Learning Adventures 
 
 My Machine Learning adventure. It includes what I have seen in the courses and my comments on them.
 
